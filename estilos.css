@@ -1,3 +1,6 @@
+*{
+    color:green;
+}
 div{
     width: 250px;
     height: 250px;
@@ -15,4 +18,29 @@ p{
     width: 150px;
     height: 150px;
     background-color: rgba(0%, 0%, 100%, 40%); /* 40% de opacidad  o 0.4 */
+}
+.una_caja_mas{
+    width: 150px;
+    height: 150px;
+    background-color:#3E0472;
+}
+.capibara{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(300,  40%, 20%);
+}
+#soy_unico{
+    width: 250px;
+    height: 50px;
+    background-color: aqua;
+}
+a[title]{
+    color: gray;
+}
+button:hover{
+    background-color: yellow;
+    color: red;
+}
+input:disabled{
+    background-color: black;
 }
