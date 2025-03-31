@@ -11,3 +11,8 @@ p{
     height: 150px;
     background-color: rgb(10%, 100% , 50%);
 }
+.otra_caja{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0%, 0%, 100%, 40%); /* 40% de opacidad  o 0.4 */
+}
