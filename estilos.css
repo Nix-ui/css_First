@@ -56,3 +56,9 @@ p::first-letter{
     height: 100px;
     background-color: violet;
 }
+.padre p::first-letter{
+   font-size: medium;
+}
+.padre p{
+    color: red;
+}
