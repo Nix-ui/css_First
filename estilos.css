@@ -97,3 +97,19 @@ p #unico.foo.bar{
     height: 100vh;
     background-color: red;
 }
+.otro-div{
+    width: 250px;
+    height: 250px;
+    background-color: cyan;
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px; */
+    padding: 25px;
+    /* border-left: 4px solid green;
+    border-right: 4px solid green;
+    border-top: 4px solid green;
+    border-bottom: 4px dashed green; */
+    border:12px solid yellow;
+    margin: 25px;
+}
